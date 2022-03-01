@@ -20,7 +20,7 @@ Hi 👋! My name is Felix, I'm 30 years old and I live in Germany.
 </h2>
 
 
-<h4 align="center">
+<h4 align="left">
   
   System : 
   
@@ -29,7 +29,7 @@ Hi 👋! My name is Felix, I'm 30 years old and I live in Germany.
   
 </h4>
 
-<h4 align="center">
+<h4 align="left">
   
   Languages : 
   
@@ -41,7 +41,7 @@ Hi 👋! My name is Felix, I'm 30 years old and I live in Germany.
   
 </h4>
 
-<h4 align="center">
+<h4 align="left">
   
   Serving : 
   
@@ -51,7 +51,7 @@ Hi 👋! My name is Felix, I'm 30 years old and I live in Germany.
   
 </h4>
 
-<h4 align="center">
+<h4 align="left">
   
   Librarys & Frameworks : 
   
@@ -68,7 +68,7 @@ Hi 👋! My name is Felix, I'm 30 years old and I live in Germany.
   
 </h4>
 
-<h4 align="center">
+<h4 align="left">
   
   Other : 
   
@@ -82,7 +82,7 @@ Hi 👋! My name is Felix, I'm 30 years old and I live in Germany.
   
 </h4>
 
-<h4 align="center">
+<h4 align="left">
   
   Progress : 
   
