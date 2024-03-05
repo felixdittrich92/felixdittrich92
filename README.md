@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi 👋! My name is Felix, I'm 31 years old and I live in Germany.
+Hi 👋! My name is Felix, I'm 32 years old and I live in Germany.
 </h2>
 
 [<img align="right" width="35%" src="https://github-readme-stats-ouuan.vercel.app/api?username=felixdittrich92&theme=dark&show_icons=true">](https://metrics.lecoq.io/felixdittrich92?template=classic)
