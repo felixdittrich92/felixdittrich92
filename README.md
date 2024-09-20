@@ -50,6 +50,7 @@ Hi 👋! My name is Felix, I'm 32 years old and I live in Germany.
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-6395ee?style=for-the-badge&logo=amazonaws&logoColor=white)
   
 </h4>
 
