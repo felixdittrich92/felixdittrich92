@@ -10,7 +10,7 @@ Hi 👋! My name is Felix, I'm 33 years old and I live in Germany.
 - 👨‍🦱 I'm a Machine Learning Engineer (NLP and CV) [@t2k](https://text2knowledge.de/start) 
 - 🚀 While working as a Machine Learning Engineer (NLP and CV) at [@memoresa](https://memoresa.de/de/) i built up the topic of machine learning and deep learning from scratch
 - 🔭 I’m currently working on OCR, ASR and Information Extraction
-- ⚡ Maintainer of: [docTR](https://github.com/mindee/doctr) & [OnnxTR](https://github.com/felixdittrich92/OnnxTR)
+- ⚡ Maintainer of: [docTR](https://github.com/mindee/doctr) & [OnnxTR](https://github.com/felixdittrich92/OnnxTR) & [docTR-Labeler](https://github.com/text2knowledge/docTR-Labeler) & [docling-OCR-OnnxTR](https://github.com/felixdittrich92/docling-OCR-OnnxTR)
 - 📚 Currently learning about: Graph Neural Networks (GNNs) / Rust
 - 💌 Open-Source projects
 - :heart: What I do on my spare time 📖 👪 🎮
