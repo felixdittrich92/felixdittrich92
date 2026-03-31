@@ -7,7 +7,7 @@ Hi 👋! My name is Felix, I'm 34 years old and I live in Germany.
 [<img align="right" width="35%" src="https://github-readme-stats-ouuan.vercel.app/api?username=felixdittrich92&theme=dark&show_icons=true">](https://metrics.lecoq.io/felixdittrich92?template=classic)
 
   
-- 👨‍🦱 I'm a Machine Learning Engineer (NLP and CV) [@t2k](https://text2knowledge.de/start) 
+- 👨‍🦱 I'm a Machine Learning Engineer (NLP and CV) [@t2k](https://www.text2knowledge.de/de) 
 - 🚀 While working as a Machine Learning Engineer (NLP and CV) at [@memoresa](https://memoresa.de/de/) i built up the topic of machine learning and deep learning from scratch
 - 🔭 I’m currently working on OCR, ASR and Information Extraction
 - ⚡ Maintainer of: [docTR](https://github.com/mindee/doctr) & [OnnxTR](https://github.com/felixdittrich92/OnnxTR) & [docTR-Labeler](https://github.com/text2knowledge/docTR-Labeler) & [docling-OCR-OnnxTR](https://github.com/felixdittrich92/docling-OCR-OnnxTR)
